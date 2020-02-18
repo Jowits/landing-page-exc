@@ -15,6 +15,12 @@ h1 {
   color: whitesmoke;
 }
 
+hr {
+  border-color: #f05f44;
+  border-width: 3px;
+  max-width: 65px;
+}
+
 .btn {
   font-weight: 700;
   border-radius: 300px;
@@ -26,6 +32,10 @@ h1 {
   border-color: #f05f44;
 }
 
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+}
 .btn-xl {
   padding: 1rem 2rem;
 }
