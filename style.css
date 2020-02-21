@@ -9,7 +9,12 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-
+h1.title {
+  font-weight: 700;
+  font-size: 5rem;
+  text-transform: uppercase;
+  color: whitesmoke;
+}
 h1 {
   font-size: 3rem;
   color: whitesmoke;
@@ -22,7 +27,7 @@ hr {
 }
 
 .buffer {
-  height: 13rem;
+  height: 11rem;
 }
 
 .btn {
